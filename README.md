@@ -47,11 +47,11 @@ A full-stack AI-powered Support Ticket Management System built using:
 ## 📦 Project Structure
 
 ai-support-ticket-system/ 
- ├── backend/ 
- ├── frontend/ 
- ├──docker-compose.yml 
- ├── .gitignore 
- └── README.md
+# ├── backend/ 
+# ├── frontend/ 
+# ├──docker-compose.yml 
+# ├── .gitignore 
+# └── README.md
 
 ------------------------------------------------------------------------
 
