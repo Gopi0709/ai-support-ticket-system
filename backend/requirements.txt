@@ -1,0 +1,11 @@
+Django==4.2
+djangorestframework
+psycopg2-binary
+openai
+requests
+google-genai
+django-cors-headers
+
+
+
+
