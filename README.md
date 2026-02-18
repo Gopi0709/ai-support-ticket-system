@@ -86,10 +86,10 @@ project.
 
 ### Tickets
 
-GET /api/tickets/ POST /api/tickets/ 
-GET /api/tickets/`<id>`{=html}/ 
-PUT /api/tickets/`<id>`{=html}/ 
-DELETE /api/tickets/`<id>`{=html}/
+## GET /api/tickets/ POST /api/tickets/ 
+## GET /api/tickets/`<id>`{=html}/ 
+## PUT /api/tickets/`<id>`{=html}/ 
+## DELETE /api/tickets/`<id>`{=html}/
 
 ### AI Classification
 
